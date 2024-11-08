@@ -26,8 +26,8 @@
 <body>
   <header class="header">
     <!-- Header Greetings -->
-    <h1 class="title">Hello, there</h1>
-    <p class="subtitle">How can I help you today?</p>
+    <h1 class="title">Hello, there Im Mr Mare04 Gemini Ai +263783470728</h1>
+    <p class="subtitle">How can I help you today 🍒🍎?</p>
 
     <!-- Suggestion list -->
     <ul class="suggestion-list">
@@ -40,7 +40,7 @@
         <span class="icon material-symbols-rounded">lightbulb</span>
       </li>
       <li class="suggestion">
-        <h4 class="text">Can you help me find the latest news on web development?</h4>
+        <h4 class="text">Mr Mare04 Gemini AI can you help me find the latest news on web development?</h4>
         <span class="icon material-symbols-rounded">explore</span>
       </li>
       <li class="suggestion">
